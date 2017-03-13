@@ -1,0 +1,13 @@
+table, td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+body {
+    padding: 10px;
+}
+
+#download {
+    margin-top: 5px;
+}
