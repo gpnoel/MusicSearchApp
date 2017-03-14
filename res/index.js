@@ -115,6 +115,7 @@ var fillTable = function ($scope, data) {
     $("#track").text("Track Name");
     $("#download").prop("hidden", false);
     $("#download").addClass("btn btn-default");
+    $("#info").text("Click on a track to see more information.");
     // add the prev arrow
     var pages = `<li>
                     <a href="#" aria-label="Previous">
